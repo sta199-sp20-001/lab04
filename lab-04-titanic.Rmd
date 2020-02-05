@@ -1,0 +1,44 @@
+---
+title: "Lab 04 - The RMS Titanic"
+subtitle: "Due: Monday, Feb 14 at 11:59pm"
+author: "Lab Group - Member 1, Member 2, Member 3, Member 4"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+
+```{r load-data-and-packages, warning=FALSE, message=FALSE}
+library(tidyverse)
+titanic <- read_csv("data/titanicsurvival.csv")
+```
+
+# Exercise 1
+
+Answer the question in the narrative here.
+
+# Exercise 2
+
+```{r exercise-2}
+# Use R code to help you
+```
+
+Answer the question in the narrative here.
+
+# Exercise 3
+
+```{r exercise-3}
+# Create your visualization here
+```
+
+# Exercise 4
+
+```{r exercise-4}
+# Create your visualization here
+```
+
+# Exercise 5
+
+Answer the question in the narrative here.
+
+    
