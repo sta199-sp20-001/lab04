@@ -1,6 +1,6 @@
 ---
 title: "Lab 04 - The RMS Titanic"
-subtitle: "Due: Monday, Feb 14 at 11:59pm"
+subtitle: "Due: Friday, Feb 14 at 11:59pm"
 author: "Lab Group - Member 1, Member 2, Member 3, Member 4"
 output:
   html_document: default
